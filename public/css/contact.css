@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    width: 500px;
+    padding: 3rem 2rem;
+    }
+    #my-form {
+    padding: 3rem;
+    border: solid;
+    border-color: rgb(179, 66, 17);
+    border-radius: 1rem;
+    }
+    .form-header {
+        text-align: center;
+        color: rgb(179, 66, 17);
+        border-bottom: 2px solid black;
+    }
+    .form-control label,
+    .form-control input{
+        display:block;
+        width: 100%;
+    }
+
+    .form-control input{
+        border: 1px solid #022a41;
+        font: inherit;
+        border-radius: 2px;
+    }
